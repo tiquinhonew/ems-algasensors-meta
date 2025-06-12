@@ -57,7 +57,7 @@ git clone --recurse-submodules git@github.com:tiquinhonew/ems-algasensors-meta.g
 
 ## Licença
 
-MIT License © Douglas Moraes
+[MIT License](https://github.com/tiquinhonew/ems-algasensors-meta?tab=MIT-1-ov-file#readme) © Douglas Moraes
 
 ---
 
